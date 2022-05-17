@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/check_icon.png</file>
+        <file>icons/check_icon_30x30.png</file>
+        <file>icons/wrong_check_icon.png</file>
+        <file>icons/wrong_check_icon_30x30.png</file>
+        <file>icons/flag.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Obit.qss</file>
+        <file>Diffnes.qss</file>
+        <file>Devsion.qss</file>
+    </qresource>
+</RCC>
