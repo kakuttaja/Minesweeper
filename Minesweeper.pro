@@ -6,7 +6,7 @@ RC_ICONS = ./icons/flag.ico
 RC_FILE = ./resources.rc
 
 CONFIG += c++11
-CONFIG += static
+CONFIG += dynamic
 
 # You can make your code fail to compile if it uses deprecated APIs.
 # In order to do so, uncomment the following line.
