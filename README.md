@@ -9,6 +9,7 @@ Hard-coded 20% tiles are mined, with 3 different game board sizes of 10x10, 15x1
 
 ## How to play
 - Left click to open tiles
+  - 3x3 area centered on the first tile clicked will always be safe
 - Right click to set flags
 - Middle click to restart game
 
