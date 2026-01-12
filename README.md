@@ -21,6 +21,6 @@ Hard-coded 20% tiles are mined, with 3 different game board sizes of 10x10, 15x1
 
 ### Configure & Build
 ```bash
-> cmake -B build -G Ninja
-> cmake --build build
+cmake -S . -B build -G Ninja
+cmake --build build
 ```
